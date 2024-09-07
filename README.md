@@ -1,2 +1,2 @@
-# galvao-bluesky-bot
+# tino-bluesky-bot
 Sentiu!
